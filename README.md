@@ -1,1 +1,1 @@
-# GRAM-s-Gym-Management-System
+# GRAMs Gym Management System
